@@ -1,7 +1,7 @@
 {
 "spider":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/jar/xc0126.jar",
 
-"lives":[
+//"lives":[
 	{"name":"05151","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05151.txt"},
 	{"name":"05152","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt"},
 	{"name":"05153","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt"},
@@ -11,14 +11,14 @@
 	{"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 	
 	{"name":"0515","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
-],
+]，
 
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
 {"key":"date","name":"️🚫🔞 0423 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00bili05155.json", "jar":"https://gh-proxy.com/https://github.com/c120487/00/raw/main/jar/pc0330.jar"},
-{"key":"live","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#FongMi$https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt#Gaotian$https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
+{"key":"live","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#FongMi$https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt#Gaotian$https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"}，
 
 {"key":"Local","name":"🗃本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"WebDAV","name":"📀WebDAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/webdav05155.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
@@ -26,7 +26,7 @@
 
 
 
-{"key":"vv001","name":"️💃女優💃","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv001","name":"️💃女優💃","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json"，"searchable":0,"quickSearch":0,"filterable":0},
 {"key":"vv002","name":"️👠番號👠","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"vv003","name":"️👙主題👙","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
 
@@ -69,15 +69,15 @@
 //
 //
 {"key":"s00json","name":"🐝🐝json1🐝🐝‍","type":0,"api":"","searchable":0,"quickSearch":0},
-{"name":"51smt4水蜜桃","key":"11水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"523zyw523资源","key":"11523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"888dav抖阴","key":"11抖阴","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+//{"name":"51smt4水蜜桃","key":"11水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+//{"name":"523zyw523资源","key":"11523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
+//{"name":"888dav抖阴","key":"11抖阴","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"91md麻豆視頻","key":"1191md.me","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"91md91麻豆","key":"1191麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"91md91麻豆","key":"1191麻豆2","type":1,"api":"https://91md.me/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"91md","key":"1191md","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"99zy99资源","key":"1199资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"99zy99资源","key":"1199资源2","type":1,"api":"http://99zy.pw/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
+//{"name":"99zy99资源","key":"1199资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+//{"name":"99zy99资源","key":"1199资源2","type":1,"api":"http://99zy.pw/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"apilj辣椒","key":"11apilj.com","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"apilj辣椒资源","key":"11辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"apilyzy老鸭资源","key":"11老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
